@@ -2,7 +2,7 @@
 
 **A passionate **Full-Stack Competent Web Developer** and **IT Specialist** driving digital efficiency from Baku, Azerbaijan.**
 
- Email Me 📫 **majidaliyev03@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+ Email Me 📫 **majidaliyev.bdm@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ---
 
@@ -16,10 +16,10 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/majid-aliyev-53081b32a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/majid-aliyev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magidaliyev)
 [![Website](https://img.shields.io/badge/Portfolio-majidaliyev.de-blue?style=flat&logo=dribbble&logoColor=white)](https://majidaliyev.de)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alyvmecid@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:majidaliyev.bdm@gmail.com)
 
 ---
 
