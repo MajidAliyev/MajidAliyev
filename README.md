@@ -10,7 +10,6 @@
 * 🤝 **Looking to collaborate on**: Projects requiring **responsive web design** and **SEO optimization** using expert **HTML/CSS/JS** and **Python**.
 * ❓ **Looking for help with**: Exploring new frameworks for e-commerce development and advanced **performance optimization**.
 * 💬 **Ask me about**: **Troubleshooting** complex internal airline systems, setting up secure IT infrastructure, or Shopify store management.
-* ⚡ **Extra fact**: I'm a certified **German C1** speaker
 
 ---
 
