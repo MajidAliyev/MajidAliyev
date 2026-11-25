@@ -6,7 +6,6 @@
 
 ---
 
-* 🧑‍💻 **Currently working on**: Scaling **AZERTUFF LTD** (Co-Founder & Marketing Manager) by executing high-conversion Meta ad campaigns and optimizing Shopify e-commerce projects.
 * 🌱 **Currently learning**: Advanced strategies for **Data Security** and **GDPR Compliance** within systems administration.
 * 🤝 **Looking to collaborate on**: Projects requiring **responsive web design** and **SEO optimization** using expert **HTML/CSS/JS** and **Python**.
 * ❓ **Looking for help with**: Exploring new frameworks for e-commerce development and advanced **performance optimization**.
